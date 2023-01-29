@@ -1,4 +1,3 @@
-# Squash-League
+# Squash League Scheduler
 
-I was hired by the Fairfield County Squash League to create a game schedule generator. I invented my own algorithm to optimize the game schedule such that teams maximize the number of games they play, without playing too many games in a short period of time, and while balancing game locations, taking into account each team’s location and other constraints. The algorithm can make updates to the schedule if a team changes its constraints mid-season. 
-
+I was hired by the FairWest Public School Squash Association to create a game scheduler. I invented an algorithm to maximize the games each team plays, while optimizing game frequency for each team while taking into account each team's constraints, such as when and where each team can play. Updates the schedule if a team changes its constraints mid-season. 
